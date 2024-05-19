@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # def check_view(list_of_height):
 #     blocked_numbers = []
 #     for index0 in range(len(list_of_height)-1, 0, -1):
